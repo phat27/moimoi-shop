@@ -1,0 +1,24 @@
+:root {
+  --change-color: linear-gradient(0, #fe6433, #f53e2d);
+  --black-color: #333333;
+  --primary-color: #ee4d2d;
+  --white-color: #fff;
+  --black-color: #000;
+  --text-color: #333;
+  --border-color: #dbdbdb;
+  --star-gold-color: #ffce3e;
+}
+*{
+  list-style: none;
+  text-decoration: none;
+  box-sizing: inherit;
+  margin: 0px;
+  padding: 0px;
+  
+}
+html {
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+}
